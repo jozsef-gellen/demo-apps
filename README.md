@@ -10,8 +10,10 @@ Each subfolder is a standalone clock demo, including its own `index.html` and op
 
 | Folder | Description |DEMO|
 |--------|-------------|----|
-| `XML Validator` | Basic XML file and content validator |https://demo.netrobot.hu/demoapp.php?demoapp=xml_validator&lang=en|
-| `JSON Validator` | Basic JSON file and content validator |https://demo.netrobot.hu/demoapp.php?demoapp=json_validator&lang=en|
+| `XML Validator` | Basic XML file and content validator |https://demo.netrobot.hu/demoapp.php?demoapp=xml_validator&lang=en||
+| `JSON Validator` | Basic JSON file and content validator |https://demo.netrobot.hu/demoapp.php?demoapp=json_validator&lang=en||
+| `weather` | Simple weather Open-Meteo widget|https://demo.netrobot.hu/demoapp.php?demoapp=weather&lang=en|
+| `watermark` | Simple watermarking with JavaScript, no configuration options.|https://demo.netrobot.hu/demoapp.php?demoapp=watermark&lang=en|
 <!-- Add more rows as you upload new widgets -->
 
 ## 🚀 How to Use
